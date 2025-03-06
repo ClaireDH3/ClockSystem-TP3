@@ -1,6 +1,7 @@
 ![Gradle workflow](https://github.com/ClaireDH3/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
 ![pmd](https://github.com/ClaireDH3/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
 ![codeql](https://github.com/ClaireDH3/ClockSystem-TP3/actions/workflows/codeql.yml/badge.svg)
+![scorecard](https://github.com/ClaireDH3/ClockSystem-TP3/actions/workflows/scorecard.yml/badge.svg)
 
 # ClockSystem
 
